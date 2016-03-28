@@ -4,4 +4,6 @@ iPython:
   tty: true
   labels:
     "Version": "v0.0.1"
+  ports:
+    - "8888:8888"
 
