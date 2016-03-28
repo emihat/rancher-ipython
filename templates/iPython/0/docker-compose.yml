@@ -1,0 +1,7 @@
+iPython:
+  image: ipython/ipython
+  stdin_open: true
+  tty: true
+  labels:
+    "Version": "v0.0.1"
+

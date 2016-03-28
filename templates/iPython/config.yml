@@ -1,0 +1,5 @@
+name: iPython
+description: |
+  IPython provides a rich architecture for interactive computing
+version: 0.0.1
+category: Rancher Services

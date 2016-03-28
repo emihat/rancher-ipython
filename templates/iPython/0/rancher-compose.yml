@@ -1,0 +1,13 @@
+.catalog:
+  name: "iPython"
+  version: "v0.0.1"
+  description: "iPython"
+  questions:
+  - variable: "scale"
+    label: "Nodes"
+    description: "Number of nodes"
+    required: true
+    default: 1
+    type: "int"
+iPython:
+  scale: "${scale}"
